@@ -1,1 +1,13 @@
 # FP2_WDP
+Link deploy : https://final-project-2-grup-4.netlify.app/
+Link repo (masing-masing) :
+
+Final Project 2:
+
+1. Header & Banner (Vivi Aryska)
+
+2. Products Features 1 & Features 2 (Zaki Malik)
+
+3. About & Pricing (Faridah Hanifah)
+
+4. Contact & Footer (Nabilah Luthfiyah)
